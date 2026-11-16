@@ -28,6 +28,5 @@ int main() {
     else lo = mid + 1;
   }
   cout << "! " << lo << endl;
-  return 0;
 }
 
